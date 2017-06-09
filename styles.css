@@ -2,10 +2,11 @@
 
 body{
     background-color:#F2F1E8;
-   
+
 }
 nav{
     position: fixed !important;
+    width:100%;
 }
 nav ul{
     display:flex;
@@ -21,7 +22,7 @@ nav li{
     color:#131511;
     text-transform: uppercase;
     text-decoration-style:underline;
-    padding:10px;  
+    padding:10px;
     justify-content: space-between;
     align-self:center;
     margin:75px;
@@ -41,8 +42,8 @@ nav img{
     align-self:center;
     margin-left:-10px;
     float:left;
-    width:5px;
-    height:20px;
+    width:25px;
+    height:30px;
 
 }
 
@@ -86,9 +87,9 @@ nav img{
     font-family: 'Lora',serif;
     font-size:12px;
     padding:5px 5px 5px 5px;
-    margin-top:-45px; 
+    margin-top:-45px;
     margin-left:10px;
-    
+
 }
 
 .pic2{
@@ -108,7 +109,7 @@ nav img{
     font-family: 'Lora',serif;
     font-size:12px;
     padding:5px 5px 5px 5px;
-    margin-top:-45px; 
+    margin-top:-45px;
 }
 
 .pic3{
@@ -127,7 +128,7 @@ nav img{
     font-family: 'Lora',serif;
     font-size:12px;
     padding:5px 5px 5px 5px;
-    margin-top:-35px; 
+    margin-top:-35px;
     margin-bottom: 10px;
 }
 
@@ -139,7 +140,7 @@ nav img{
      background-repeat:no-repeat;
      padding-right: 10px;
      margin-left: 10px;
-    
+
  }
 
 .teatime{
@@ -149,10 +150,10 @@ nav img{
     font-size:12px;
     color:#F2F1E8;
     padding:5px 5px 5px 5px;
-    margin-top:-35px; 
+    margin-top:-35px;
     margin-left:10px;
 }
- 
+
 .pic5{
      width:140px;
      height:135px;
@@ -169,7 +170,7 @@ nav img{
     font-size:12px;
     color:#F2F1E8;
     padding:5px 5px 5px 5px;
-    margin-top:-35px; 
+    margin-top:-35px;
 }
 
 .pic6{
@@ -188,7 +189,7 @@ nav img{
     font-size:12px;
     color:#F2F1E8;
     padding:5px 5px 5px 5px;
-    margin-top:-35px; 
+    margin-top:-35px;
 }
 .pic7{
      width:159px;
@@ -205,7 +206,7 @@ nav img{
     font-size:12px;
     color:#F2F1E8;
     padding:5px 5px 5px 5px;
-    margin-top:-35px; 
+    margin-top:-35px;
 }
 .copyright{
     position:relative;
@@ -213,8 +214,8 @@ nav img{
     background-color:#131511;
     height:70px;
     margin-left:-10px;
-   
-   
+
+
 }
 
 .copyright h3{
@@ -224,8 +225,5 @@ nav img{
     padding:20px 0px 15px 15px;
     margin-top:10px;
     margin-right:-10px;
-    
+
 }
-
-
-

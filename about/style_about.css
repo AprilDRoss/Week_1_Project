@@ -19,7 +19,7 @@ nav{
 
 nav_bar{
     width:850px;
-   
+
 }
 
 nav ul{
@@ -27,7 +27,7 @@ nav ul{
     background-color:white;
     height:75px;
     flex-wrap:nowrap;
-    
+
 }
 
 nav li{
@@ -37,7 +37,7 @@ nav li{
     color:#2B2F26;
     size:10px;
     text-transform: uppercase;
-    text-decoration-style:underline; 
+    text-decoration-style:underline;
     justify-content: space-between;
     align-self:center;
     margin:75px;
@@ -54,8 +54,8 @@ nav li:active{
 nav img{
     align-self:flex-start;
     align-self:center;
-    height:20px;
-    width:15px;
+    height:30px;
+    width:25px;
     padding:10px;
     margin-left:-10px;
     size:cover;
@@ -72,8 +72,8 @@ nav img{
 
 .about_artists{
     padding:0 100px 0 100px;
-    
-    
+
+
 }
 
 .about_artists img{
@@ -82,7 +82,7 @@ nav img{
     height:50px;
     margin:20px 10px 10px 0;
     order:1;
-    
+
 }
 
 .about_artists p{
@@ -115,7 +115,7 @@ blockquote{
    padding:0 100px 0px 100px;
    margin-left: -100px;
 
-} 
+}
 
 .history h2{
     justify-content: flex-start;
@@ -145,7 +145,7 @@ blockquote{
     background-size:cover;
     padding-left:100px;
     justify-content: center;
-    margin-left: 100px;   
+    margin-left: 100px;
 }
 
 .garden_pic h2{
@@ -182,15 +182,15 @@ h2 {
     font-family: 'Lora',serif;
     font-size: 10px;
     width:400px;
-    margin-left:100px;  
+    margin-left:100px;
     float:left;
 }
  aside{
      display:flex;
-     flex-flow:column wrap;  
+     flex-flow:column wrap;
      float:right;
  }
- 
+
 .small-pot img{
     display: flex;
     flex-flow:column wrap;
@@ -204,7 +204,7 @@ h2 {
     color:#131511;
     height:30px;
     width:90px;
-    font-size: 8px; 
+    font-size: 8px;
 }
 
 .monthly_plans h2{
@@ -235,7 +235,7 @@ tr td{
     font-family:'Lora',serif;
     font-size:14px;
     padding:10px 30px 10px 5px;
-    
+
 }
 
 .second-row{
@@ -260,5 +260,5 @@ tr td{
     color:beige;
     padding:20px 0px 0px 20px;
     font-size:8px;
-    
+
 }
